@@ -10,4 +10,6 @@
 # This only works on linux, it's using system calls to do everything or almost everything. 
 # For precaution start with the consumer. If something goes wrong, run "./clean", to release the 
 # shared memory and the array of semaphore.    
-# That's it. If you have some question, look at the code.  
+# That's it. If you have some question, look at the code.
+
+# make producer; make consumer; make clean;  
